@@ -12,3 +12,4 @@
 - https://github.com/soumya997/HuBMAP-kaggle
 - Lung effnet weights: https://www.kaggle.com/datasets/soumya9977/hubmap-lung-effnetb7-10242-weights
 - Augmented + Original data for Lungs: https://www.kaggle.com/datasets/soumya9977/hubmap-lung-augorg-data
+- yet another useless lung training
