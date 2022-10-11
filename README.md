@@ -7,3 +7,8 @@
 
 ## Exp tracking:
 - https://docs.google.com/spreadsheets/d/1L6q4Ati2KEQKmO-rW6N5LGEI6gJsfD7MoFM0xjKAERQ/edit?usp=sharing
+
+## Experiment tracking:
+- https://github.com/soumya997/HuBMAP-kaggle
+- Lung effnet weights: https://www.kaggle.com/datasets/soumya9977/hubmap-lung-effnetb7-10242-weights
+- Augmented + Original data for Lungs: https://www.kaggle.com/datasets/soumya9977/hubmap-lung-augorg-data
