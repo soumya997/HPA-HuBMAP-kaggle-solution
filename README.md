@@ -1,5 +1,8 @@
 # HPA-HuBMAP-kaggle-solution
 
+## Initial repo:
+- https://github.com/soumya997/HuBMAP-kaggle
+
 ## datasets used:
 - https://www.kaggle.com/datasets/alincijov/swin-tiny-small-22k-pretrained
 - https://www.kaggle.com/datasets/kozodoi/efficientnet-pytorch?select=EfficientNet-PyTorch
