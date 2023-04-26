@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link href="http://arxiv.org/api/query?search_query%3Dtl%3ASurvey%20on%20Semantic%20Stereo%20Matching%20Semantic%20Depth%20Estimation%26id_list%3D%26start%3D0%26max_results%3D1" rel="self" type="application/atom+xml"/>
+  <title type="html">ArXiv Query: search_query=tl:Survey on Semantic Stereo Matching Semantic Depth Estimation&amp;id_list=&amp;start=0&amp;max_results=1</title>
+  <id>http://arxiv.org/api/aRFx6u9JQ8xJeapO6DSUrrHGqWg</id>
+  <updated>2023-01-12T00:00:00-05:00</updated>
+  <opensearch:totalResults xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">1633526</opensearch:totalResults>
+  <opensearch:startIndex xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">0</opensearch:startIndex>
+  <opensearch:itemsPerPage xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">1</opensearch:itemsPerPage>
+  <entry>
+    <id>http://arxiv.org/abs/2109.10123v1</id>
+    <updated>2021-09-21T12:11:56Z</updated>
+    <published>2021-09-21T12:11:56Z</published>
+    <title>Survey on Semantic Stereo Matching / Semantic Depth Estimation</title>
+    <summary>  Stereo matching is one of the widely used techniques for inferring depth from
+stereo images owing to its robustness and speed. It has become one of the major
+topics of research since it finds its applications in autonomous driving,
+robotic navigation, 3D reconstruction, and many other fields. Finding pixel
+correspondences in non-textured, occluded and reflective areas is the major
+challenge in stereo matching. Recent developments have shown that semantic cues
+from image segmentation can be used to improve the results of stereo matching.
+Many deep neural network architectures have been proposed to leverage the
+advantages of semantic segmentation in stereo matching. This paper aims to give
+a comparison among the state of art networks both in terms of accuracy and in
+terms of speed which are of higher importance in real-time applications.
+</summary>
+    <author>
+      <name>Viny Saajan Victor</name>
+    </author>
+    <author>
+      <name>Peter Neigel</name>
+    </author>
+    <link href="http://arxiv.org/abs/2109.10123v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/2109.10123v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+</feed>
